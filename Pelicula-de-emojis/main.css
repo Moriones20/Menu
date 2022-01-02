@@ -1,0 +1,38 @@
+* {
+   color: #fffffc;
+   text-align: justify;
+}
+body {
+   background: -webkit-linear-gradient(#4d194d, #272640, #065a60);
+   padding: 4px;
+   margin-bottom: 25px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+   margin: 0.5%;
+   padding: 4px;
+}
+p.intro{
+   margin: 20px;
+}
+p {
+   font-size: 1.2em;
+}
+summary{
+   font-size: 3rem;
+   margin: 28px;
+}
+p.pie {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   clear: both;
+   width: 100%;
+   margin: 0;
+   padding: 0.25em;
+   border-top: #272640;
+   background-color: #006466;
+   color: black;
+   text-align: center;
+   font-size: 0.9rem;
+}
